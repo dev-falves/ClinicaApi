@@ -20,7 +20,7 @@ focando na modelagem de um banco de dados bem próximo da realidade de uma produ
 ## 🔍 Evidências de Funcionamento
 
 - Teste do Swagger
-![Diagrama da Arquitetura](./portfolioClinicaCaptura.png)
+![Diagrama da Arquitetura](./portfolioClinicaCaptura2.png)
 - Diagrama da Arquitetura
 ![Diagrama da Arquitetura](./diagramaClinica.png)
 
